@@ -1,5 +1,4 @@
-# Tomorrow University - Jannik Melcher
-## Regression-Monetary-Freedom
+ # Regression-Monetary-Freedom - Jannik Melcher
 
 **Essential Elements of a Great README:**
 
