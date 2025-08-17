@@ -8,9 +8,9 @@
 
 | **Section** | **Purpose** |
 | --- | --- |
-| **Project Title** | Descriptive and concise title |
+| **Project Title** | Monetary Freedom is key for Economic  Freedom |
 | **Summary** | What problem you're solving and why it's important |
-| **Hypothesis** | Key relationships you're modeling (e.g., features → target) |
+| **Hypothesis** | Countries with low Monetary Freedom tend to have a lower overall Index of Economic Freedom. |
 | **Dataset Info** | Where the data comes from, what it contains |
 | **Installation** | How to install dependencies (e.g., `pip install -r requirements.txt`) |
 | **Usage** | How to run notebooks/scripts or reproduce results |
