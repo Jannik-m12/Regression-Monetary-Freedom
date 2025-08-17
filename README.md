@@ -1,4 +1,4 @@
-###   [GitHub Repository]([https://github.com/deinname/deinprojekt](https://github.com/Jannik-m12/Regression-Monetary-Freedom))
+### URL: [Projekt-Repository: Regression Monetary Freedom](https://github.com/Jannik-m12/Regression-Monetary-Freedom)
 
  
  
