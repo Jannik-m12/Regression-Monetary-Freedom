@@ -3,9 +3,13 @@
 # 📊 Economic Freedom & Human Development
 
 ## 📝 Summary
-This project explores the relationship between **economic freedom** (measured by the *Economic Freedom of the World Index* from the Fraser Institute) and the **Human Development Index (HDI)** published by the United Nations Development Programme (UNDP).  
-The goal is to investigate which dimensions of economic freedom are most strongly associated with the **well-being of the average citizen**.
+This project investigates the relationship between **economic freedom**, as measured by the *Economic Freedom of the World (EFW) Index* from the Fraser Institute, and the **Human Development Index (HDI)** published by the United Nations Development Programme (UNDP).  
 
+The goal is to understand which dimensions of economic freedom—such as property rights, government size, trade openness, sound money, and regulation—are most strongly associated with the **well-being of the average citizen**. By linking economic freedom to HDI, this study goes beyond traditional GDP-based measures of wealth, capturing broader aspects of human development including health, education, and income.  
+
+Understanding these relationships matters because it can inform **policy decisions** and **institutional reforms**. If certain aspects of economic freedom—like secure property rights or efficient regulation—are strongly associated with higher HDI scores, governments and policymakers can target reforms in these areas to promote sustainable human development. Conversely, identifying dimensions with weaker or negative effects can help avoid policies that may hinder overall well-being.  
+
+In short, this analysis sheds light on how **economic structures and institutions impact the everyday lives of citizens**, providing evidence for designing policies that foster both economic freedom and human development.
 ---
 
 ## 💡 Hypothesis
