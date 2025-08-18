@@ -9,7 +9,7 @@ The goal is to understand which dimensions of economic freedom—such as propert
 
 Understanding these relationships matters because it can inform **policy decisions** and **institutional reforms**. If certain aspects of economic freedom—like secure property rights or efficient regulation—are strongly associated with higher HDI scores, governments and policymakers can target reforms in these areas to promote sustainable human development. Conversely, identifying dimensions with weaker or negative effects can help avoid policies that may hinder overall well-being.  
 
-In short, this analysis sheds light on how **economic structures and institutions impact the everyday lives of citizens**, providing evidence for designing policies that foster both economic freedom and human development.
+### In short, this analysis sheds light on how economic structures and institutions impact the everyday lives of citizens, providing evidence for designing policies that foster both economic freedom and human development.
 ---
 
 ## 💡 Hypothesis
