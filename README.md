@@ -1,3 +1,66 @@
+# 📊 Economic Freedom & Human Development
+
+## 📝 Summary
+This project explores the relationship between **economic freedom** (measured by the *Economic Freedom of the World Index* from the Fraser Institute) and the **Human Development Index (HDI)** published by the United Nations Development Programme (UNDP).  
+The goal is to investigate which dimensions of economic freedom are most strongly associated with the **well-being of the average citizen**.
+
+---
+
+## 💡 Hypothesis
+- Countries with higher levels of economic freedom tend to have a higher HDI.  
+
+---
+
+## 📂 Dataset Info
+
+### Economic Freedom of the World (EFW) – Fraser Institute
+- Source: [Fraser Institute Dataset](https://www.fraserinstitute.org/economic-freedom/dataset)  
+- Coverage: up to 165 countries, years **1970–2022** (with gaps)  
+- Structure:  
+  - **Overall Index** (0–10 scale)  
+  - **5 Main Areas**:  
+    1. Government Size  
+    2. Legal System & Property Rights  
+    3. Sound Money  
+    4. Freedom to Trade Internationally  
+    5. Regulation  
+
+### Human Development Index (HDI) – UNDP
+- Source: [UNDP Human Development Data](https://hdr.undp.org/data-center/documentation-and-downloads)  
+- Coverage: ~190 countries, years **1990–2022**  
+- Structure:  
+  - **HDI score** (0–1 scale)  
+  - Subindices: Life expectancy, Education, Income  
+
+---
+
+## 🔍 Research Questions
+1. Is there a statistically significant relationship between the **EFW score** and the **HDI**?  
+2. Which of the **5 subcomponents** of the EFW best explains differences in HDI?  
+3. Do the effects differ between country groups (e.g., developed vs. developing countries)?  
+
+---
+
+## ⚙️ Methodology (Planned)
+- Merge **EFW Index** and **HDI** by country and year  
+- Run **cross-sectional regressions** (one year, many countries)  
+- Run **panel regressions with fixed effects** (multiple years, many countries)  
+- Compare the influence of the 5 EFW subindices  
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### URL: [Projekt-Repository: Regression Monetary Freedom](https://github.com/Jannik-m12/Regression-Monetary-Freedom)
 
 # Regression-Monetary-Freedom - Jannik Melcher
@@ -17,10 +80,11 @@ This project explores the role of Monetary Freedom in shaping overall Economic F
 
 
 ## Project Goal
-Analyze how Monetary Freedom affects overall Economic Freedom and identify key patterns in the Heritage Foundation dataset (1995–2024).
+Analyze how Economic Freedom affects human development and identify key patterns.(Economic Freedom of the World (EFW) – Fraser Institute).
 
 ## Data Source
-Heritage Foundation – Index of Economic Freedom (https://www.heritage.org/index/)
+Economic Freedom of the World (EFW) – Fraser Institute - (https://efotw.org/economic-freedom/dataset?geozone=world&year=2022&page=dataset&min-year=2&max-year=0&filter=0)
+Human Development Index (HDI) - United Nations Development Programme (UNDP) - (https://hdr.undp.org/data-center/human-development-index#/indicies/HDI)
 
 ## Dependencies
 Listed in `requirements.txt`
