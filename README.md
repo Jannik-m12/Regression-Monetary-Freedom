@@ -1,5 +1,11 @@
 ### URL: [Projekt-Repository: Regression Monetary Freedom](https://github.com/Jannik-m12/Regression-Monetary-Freedom)
 
+# Monetary Freedom is Key for Economic Freedom
+
+This project explores the role of Monetary Freedom in shaping overall Economic Freedom across countries. Using the Heritage Foundation’s Index of Economic Freedom (1995–2024), we analyze whether lower Monetary Freedom scores are associated with weaker performance in other dimensions of economic freedom. The goal is to uncover patterns and insights that can inform policy discussions and economic research.
+
+
+
 | **Section** | **Purpose** |
 | --- | --- |
 | **Project Title** | Monetary Freedom is Key for Economic Freedom |
