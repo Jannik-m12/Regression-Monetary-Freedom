@@ -1,0 +1,8 @@
+
+**Direct Beneficiaries:** The primary beneficiaries of this model are investors (governments, private firms, development banks) seeking to allocate capital to sustainable energy projects. By identifying countries with high investment attractiveness, the model helps them make more informed decisions, potentially leading to higher returns and reduced risk. Project developers in attractive countries also benefit from easier access to financing.
+
+**Secondary Ripple:** Better predictions of investment attractiveness can unlock broader outcomes like accelerated deployment of renewable energy infrastructure globally. This leads to reduced reliance on fossil fuels, lower greenhouse gas emissions, and improved energy security. It could also stimulate economic growth in developing countries by attracting foreign investment and creating jobs in the renewable energy sector.
+
+**Measurable KPI:** A key metric to show progress could be the **amount of capital invested in sustainable energy projects** in countries identified as attractive by the model, compared to investment in countries not flagged as attractive. Another KPI could be the **increase in renewable energy capacity installed** in these attractive countries over time.
+
+**Sustainability Link:** This project directly supports **UN Sustainable Development Goal (SDG) 7: Affordable and Clean Energy**. By facilitating investment in sustainable energy, it contributes to increasing the share of renewable energy in the global energy mix and expanding access to clean energy, particularly in developing countries. It also indirectly supports **SDG 13: Climate Action** by helping to reduce carbon emissions.
